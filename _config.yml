@@ -53,13 +53,27 @@ analytics:
 
 # Build settings
 markdown: kramdown
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: contrast
 locale: en
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-remote-theme
   - jemoji
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-include-cache
+
+whitelist:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-remote-theme
+  - jemoji
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-include-cache
+
 
 include: ["_pages", "_posts"]
 
