@@ -25,7 +25,7 @@ github_username:  aamnakhan
 
 
 #pagination
-paginate: 2s
+paginate: 2
 paginate_path: "/page/:num/"
 
 defaults:
