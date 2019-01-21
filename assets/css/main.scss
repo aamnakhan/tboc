@@ -15,10 +15,19 @@
   background: #000;
 }
 
-.page a {
-  text-decoration: none;
-}
+.page__content {
 
-.page__content .date {
-  font-size: .8em;
+  p {
+    font-size:.9em;
+  }
+
+  h1 {
+    margin: 1em 0 0.2em;
+    font-weight: 500;
+
+  }
+
+  .date {
+    font-size: .8em;
+  }
 }
