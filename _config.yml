@@ -39,7 +39,8 @@ defaults:
       comments: true
       share: true
       related: true
-  #pages
+      signup: true
+#pages
   - scope:
       path: ""
       type: pages
