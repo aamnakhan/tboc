@@ -22,6 +22,7 @@ url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://
 name: Aamna
 twitter_username: _aamnakhan
 github_username:  aamnakhan
+og_image: /assets/images/carbon.svg
 
 
 #pagination
