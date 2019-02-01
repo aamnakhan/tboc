@@ -77,6 +77,6 @@ whitelist:
   - jekyll-include-cache
 
 
-include: ["_pages", "_posts"]
+include: ["_pages"]
 
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
