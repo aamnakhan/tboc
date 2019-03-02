@@ -1,7 +1,7 @@
 ---
 title: "How I set up this blog"
 date: 2019-02-18
-permalink: "/2018-02-18-how-i-set-up-this-blog"
+permalink: "/2019-02-18-how-i-set-up-this-blog"
 header:
     teaser: /assets/images/posts/02_blog_setup/signup_variable_config.png
 ---
