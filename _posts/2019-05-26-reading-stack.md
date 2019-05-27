@@ -150,10 +150,8 @@ This workflow is quite simple & is best illustrated pictorially
 
 <figure style="width:100%;margin-top:0em" class="align-center">
     <a href=""><img style="margin-top:0em" src="/assets/images/posts/04_reading_stack/article_workflow.jpg" alt="article workflow"></a>
-    <figcaption class="text-center">Made with <a href="https://miro.com/">Miro</a> :heart: </figcaption>
+    <figcaption class="text-center">Made with <a href="https://miro.com/">Miro</a> {{:heart:}} </figcaption>
 </figure>
-
-:heart:
 
 If the article I want to read is a
 
