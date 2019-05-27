@@ -2,6 +2,7 @@
 title: "How I set up this blog"
 date: 2019-02-18
 permalink: "/2019-02-18-how-i-set-up-this-blog"
+keywords: "how to setup a jekyll blog from scratch, how to use a custom domain with jekyll blog, how to use jekyll & github pages, how to get free ssl for personal blog, cloudflare free ssl tutorial, how to add email capture form to blog"
 header:
     teaser: /assets/images/posts/02_blog_setup/signup_variable_config.png
 ---

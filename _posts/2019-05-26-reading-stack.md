@@ -2,6 +2,7 @@
 title: "Reading Stack"
 date: 2019-05-26
 permalink: "/2019-05-26-reading-stack"
+keywords: "reading stack, how to organise your reading, how to write book summaries, newsletter manager, audiobooks, how to read more, how to read better & faster, how to manage tabs, how to manage your reading, reading tools, reading apps"
 comments: true
 header:
     show_overlay_excerpt: false
