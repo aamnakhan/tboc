@@ -23,7 +23,10 @@ name: Aamna
 twitter_username: _aamnakhan
 github_username:  aamnakhan
 og_image: /assets/images/carbon.svg
+encoding: utf-8
 
+sass:
+    sass_dir: _sass
 
 #pagination
 paginate: 2
@@ -46,6 +49,11 @@ defaults:
       type: pages
     values:
       layout: single
+
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "tinybitsofcarbon"
 
 analytics:
   provider: "google-universal"
