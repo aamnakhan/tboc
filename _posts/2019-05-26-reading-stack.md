@@ -153,6 +153,7 @@ This workflow is quite simple & is best illustrated pictorially
     <figcaption class="text-center">Made with <a href="https://miro.com/">Miro</a> :heart: </figcaption>
 </figure>
 
+:heart:
 
 If the article I want to read is a
 
