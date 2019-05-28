@@ -75,15 +75,15 @@ As I mentioned in my previous post, I'm big on audiobooks now. It started with a
 
 1. Being an iPhone user, I figured it would be nice to just use iBooks for my audiobooks. However, despite trying a lot of different tricks I couldn't import audiobooks that weren't bought on iTunes. Bummer. If you are an iPhone user, I highly recommend [Bound](https://itunes.apple.com/us/app/bound-cloud-audiobooks/id1041727137?mt=8). It's like Audible for all practical purposes, except that you can listen to any kind of audiobook. It also automagically understands that multiple files are essentially one book. It has a nifty web uploader that works over WiFi, and boy does it make it easy. Totally worth the $4 I paid for it.
 
-<figure class="half">
-    <a href=""><img class="align-center" alt="bound player" src="/assets/images/posts/04_reading_stack/bound_player.jpeg" style="width:350px"></a>
-    <a href=""><img class="align-center" alt="bound playlist" src="/assets/images/posts/04_reading_stack/bound_playlist.jpeg" style="width:350px"></a>
-</figure>
-<figure class="half">
-    <a href=""><img class="align-center" alt="bound tracks" src="/assets/images/posts/04_reading_stack/bound_tracks.jpeg" style="width:350px"></a>
-    <a href=""><img class="align-center" alt="bound settings" src="/assets/images/posts/04_reading_stack/bound_settings.jpeg" style="width:350px"></a>
-    <figcaption class="text-center">Sleep timer, bookmarks, playback speed, automatic chapter detection; Bound has it all.</figcaption>
-</figure>
+    <figure class="half">
+        <a href=""><img class="align-center" alt="bound player" src="/assets/images/posts/04_reading_stack/bound_player.jpeg" style="width:350px"></a>
+        <a href=""><img class="align-center" alt="bound playlist" src="/assets/images/posts/04_reading_stack/bound_playlist.jpeg" style="width:350px"></a>
+    </figure>
+    <figure class="half">
+        <a href=""><img class="align-center" alt="bound tracks" src="/assets/images/posts/04_reading_stack/bound_tracks.jpeg" style="width:350px"></a>
+        <a href=""><img class="align-center" alt="bound settings" src="/assets/images/posts/04_reading_stack/bound_settings.jpeg" style="width:350px"></a>
+        <figcaption class="text-center">Sleep timer, bookmarks, playback speed, automatic chapter detection; Bound has it all.</figcaption>
+    </figure>
 
 2. Most audiobooks, especially non-fiction ones, can be comfortably listened to at 1.2x playback speed. If the audiobook is longer than 5-6 hours that's a considerable amount of time saved.
 
