@@ -10,7 +10,7 @@ header:
     teaser: /assets/images/posts/04_reading_stack/header_image.jpg
 ---
 <br/>
-This essay is a comprehensive collection of workflows and habits that help me read through and organise the tons of articles, essays and general information I come across. I have built these over time; at first by chance and then, in the last couple of years, a lot more deliberately. I still struggle with a huge backlog but these processes have taken the stress-of-keeping-up out of the equation.
+This essay is a comprehensive collection of workflows and habits that help me read through and organise the tons of articles, essays and general information I come across. I have built these over time; at first by chance and then, in the last couple of years, a lot more deliberately. I still have a huge backlog to contend with but these processes have taken the stress-of-keeping-up out of the equation.
 
 Before I can get into how I organise my reading, it'll help to list the sources of information.
 

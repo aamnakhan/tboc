@@ -11,8 +11,11 @@
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="msapplication-config" content="/assets/images/favicon/browserconfig.xml">
 <meta name="theme-color" content="#ffffff">
-<meta name="author" content="Aamna Khan">
-<meta name="keywords" content="{{ post.keywords }}">
-<meta name="title" content="{{ post.title }}">
-
+<meta name="author" content="{{site.author}}">
+{% if page.keywords %}
+<meta name="keywords" content="{{page.keywords | inspect }}">
+<meta name="title" content="{{page.title}}">
+{% else %}
+<meta name="keywords" content="{{site.keywords}}">
+{% endif %}
 <!-- end custom head snippets -->

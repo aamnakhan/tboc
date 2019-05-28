@@ -20,13 +20,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 logo: /assets/images/carbon.svg
 url: "https://tinybitsofcarbon.com" # the base hostname & protocol for your site, e.g. http://example.com
 name: Aamna
+author: Aamna Khan
 twitter_username: _aamnakhan
 github_username:  aamnakhan
 og_image: /assets/images/carbon.svg
 encoding: utf-8
-
-sass:
-    sass_dir: _sass
+keywords: aamna khan, personal blog
 
 #pagination
 paginate: 2
